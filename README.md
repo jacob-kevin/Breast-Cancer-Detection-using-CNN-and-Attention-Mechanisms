@@ -83,6 +83,7 @@ GPU: _CUDA-enabled GPU with at least 4 GB VRAM (for faster training)_
 Clone the repository:
 
 git clone https://github.com/jacob-kevin/reast-Cancer-Detection-using-CNN-and-Attention-Mechanisms.git
+
 cd reast-Cancer-Detection-using-CNN-and-Attention-Mechanisms
 
 
