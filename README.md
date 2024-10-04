@@ -85,6 +85,9 @@ F1 Score: 98.22%
 **Files in the Repository** 
 
 README.md: Project overview.
+
 requirements.txt: _List of dependencies (TensorFlow, SMOTE, etc.)._
+
 ResNet50.ipynb: _A Jupyter notebook that demonstrates the results obtained using only the ResNet50 model without the attention mechanism._
+
 SE_ResNet50v1.ipynb: _Main Jupyter Notebook containing the full project (preprocessing, model training, and evaluation)._
